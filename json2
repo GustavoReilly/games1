@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Angry Birds",
+    "genre" : "mobile game",
+    "targets": {
+      "likes": ["slingshots", "coins"],
+      "dislikes": ["pigs"]
+    }
+  },
+  {
+    "name": "Skyrim",
+    "genre" : "western rpg",
+    "targets": {
+      "likes": ["swords"],
+      "dislikes": ["dragons"]
+    }
+  },
+  {
+    "name": "Grand Theft Auto",
+    "genre" : "open world game",
+    "targets": {
+      "likes": ["cars"],
+      "dislikes": ["cops"]
+    }
+  }
+]
